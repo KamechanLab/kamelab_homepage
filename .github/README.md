@@ -19,7 +19,7 @@ https://qiita.com/T-H9703EnAc/items/4fbe6593d42f9a844b1c を見ながらgitの�
 Git Bash を立ち上げて、以下のコマンドを実行してください
 
 ~~~
-git clone https://github.com/nalinally/kamelab_homepage.git
+git clone https://github.com/KamechanLab/kamelab_homepage.git
 ~~~
 
 ※ajimaだとうまくいかないかも
@@ -58,7 +58,7 @@ git push
 
 以下のリンクから確認できます！
 
-https://nalinally.github.io/kamelab_homepage/
+https://kamechanlab.github.io/kamelab_homepage/
 
 ## tips
 
