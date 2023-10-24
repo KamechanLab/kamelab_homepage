@@ -1,7 +1,7 @@
 particlesJS("BackGround-js", {
     "particles":{
       "number":{
-        "value":10,//この数値を変更すると桜の数が増減できる
+        "value":3,//この数値を変更すると桜の数が増減できる
         "density":{
           "enable":true,
           "value_area":1121.6780303333778
@@ -32,8 +32,8 @@ particlesJS("BackGround-js", {
         }
       },
       "size":{
-        "value":8.011985930952697,
-        "random":true,//サイズをランダムに
+        "value":100.011985930952697,
+        "random":false,//サイズをランダムに
         "anim":{
           "enable":false,
           "speed":4,
@@ -46,7 +46,7 @@ particlesJS("BackGround-js", {
       },
       "move":{
         "enable":true,
-        "speed":7,//この数値を小さくするとゆっくりな動きになる
+        "speed":3,//この数値を小さくするとゆっくりな動きになる
         "direction":"bottom-right",//右下に向かって落ちる
         "random":false,//動きはランダムにしない
         "straight":false,//動きをとどめない
