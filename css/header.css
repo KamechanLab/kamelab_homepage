@@ -1,8 +1,16 @@
 /* タブ関連 areaの装飾も入ってます */
 
+header{
+    margin: 0;
+    padding: 0;
+    background-color: aquamarine;
+    width: 100%;
+}
+
 .tab{
     display: flex;
     flex-wrap: wrap;
+    margin: 0 0 0 0;
 }
 
 .tab li{
