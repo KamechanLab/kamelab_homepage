@@ -1,3 +1,5 @@
+/* タブ関連 areaの装飾も入ってます */
+
 .tab{
     display: flex;
     flex-wrap: wrap;
@@ -8,6 +10,7 @@
 }
 
 .tab li a{
+    text-decoration: none;
     display: block;
     background: #ddd;
     margin: 0 2px;
