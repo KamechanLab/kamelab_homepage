@@ -1,0 +1,50 @@
+.msr_h103{
+  background:aquamarine;
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 2px 0px;
+  -moz-box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 2px 0px;
+  -webkit-box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 2px 0px;
+  box-sizing: border-box;
+  color: #fff;
+  font-size: 30px;
+  margin: 0 0 20px;
+  padding: 5px 20px 5px 25px;
+  position: relative;
+  width: 100%;
+}
+
+/* h1白の三角形 */
+.msr_h103:before {
+  border-bottom: 10px solid transparent;
+  border-left: 10px solid #FFF;
+  border-right: 10px solid transparent;
+  border-top: 10px solid transparent;
+  content: " ";
+  display: block;
+  left: 0;
+  margin: -10px 0 0 0;
+  position: absolute;
+  top: 50%;
+}
+
+dl{
+    width:500px;
+   }
+   dt{
+    border-bottom:1px solid #ccc;
+     float:left;
+     padding:10px 5px;
+   }
+   dd{
+    border-bottom:1px solid #ccc;
+     margin-left:100px;
+     padding:10px 5px;
+   }
+   a{
+     background-color:red;
+     border-radius:5px;
+     color:#fff;
+     margin:0 20px;
+     padding:5px 15px;
+     text-decoration:none;
+   }
+   
